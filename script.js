@@ -1,1 +1,3 @@
 "empty"
+
+var ltd = "hello"
